@@ -1,0 +1,17 @@
+.show_content{
+  display: block;
+}
+
+.content-item{
+  display: none;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: default;
+    opacity: 0.6;
+}
+
+.clicked{
+  background-color: orange;
+}
